@@ -3,6 +3,7 @@
 target/
 dbt_packages/
 logs/
+<<<<<<< HEAD
 
 # Default .gitignore content added by dbt Cloud# you shouldn't commit these into source control
 # these are the default directory names, adjust/add to fit your needs
@@ -10,3 +11,5 @@ target/
 dbt_packages/
 logs/
 # end dbt Cloud content
+=======
+>>>>>>> ed9e60d81c5f02996a289aa06f5f32e01ec616af
